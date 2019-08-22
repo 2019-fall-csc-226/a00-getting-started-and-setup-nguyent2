@@ -1,6 +1,6 @@
 # A00: Getting Started and Setup
 
-Your Name: _________________________________
+Your Name: _THY H. NGUYEN________________________________
 
 Your Repository URL: _________________________________
 
